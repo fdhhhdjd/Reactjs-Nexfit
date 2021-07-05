@@ -42,7 +42,8 @@ const Navbar = () => {
         </div>
       </div>
       <marquee behavior="scroll" style={{fontSize:'22px'}} >Chào mừng bạn đến với Nguyễn Tiến Tài,ở đây có những bộ phim bản thân mình đã xem và mình muốn đem đến cho mọi
-      người một trải nghiệm tải Webside của mình,cảm ơn mọi người đã ghé thăm,chúc các bạn xem phim vui vẻ ,dịch đang tràng lang mong mọi người ở nhà,ăn nhậu thì gần gần đó làm vài lon cho mát,có người yêu thì chịu nhớ để xã hội được yên bình,ra đường nhớ khẩu trang nhé ,I Love You So Much ♥
+      người một trải nghiệm tải Webside của mình,cảm ơn mọi người đã ghé thăm,chúc các bạn xem phim vui vẻ ,dịch đang tràng lang mong mọi người ở nhà,ăn nhậu thì gần gần đó làm vài lon cho mát,có người yêu thì chịu nhớ để xã hội được yên bình,ra đường nhớ khẩu trang nhé ,
+      I Love You So Much ♥ ♥
       </marquee>
     </div>
   );
