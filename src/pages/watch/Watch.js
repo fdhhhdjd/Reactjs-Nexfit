@@ -11,7 +11,7 @@ export default function Watch() {
       </div>
       <video
         className="video"
-        // autoPlay
+        autoPlay
         progress
         controls> <source src={video} type="video/mp4"/></video>
           </div>

@@ -1,7 +1,7 @@
 import { ArrowDropDown, Notifications, Search } from "@material-ui/icons";
 import { useState } from "react";
 import "./navbar.scss";
-import {Link} from "react-router-dom"
+
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -36,7 +36,7 @@ const Navbar = () => {
             <ArrowDropDown className="icon" />
             <div className="options">
               <span>Settings</span>
-              <span><Link to="/login">Logout</Link></span>
+               <span>Logout</span>
             </div>
           </div>
         </div>
