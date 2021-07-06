@@ -1,6 +1,6 @@
 import React from "react"
 import "./sidebar.scss"
-
+import {Link} from "react-router-dom"
 import {
    MdSubscriptions,
    MdExitToApp,
@@ -45,12 +45,12 @@ const Sidebar = ({ sidebar, handleToggleSidebar }) => {
          </li>
 
          <hr />
-
+<Link to="/login">
          <li>
             <MdExitToApp size={23} />
             <span>Log Out</span>
          </li>
-
+         </Link>
          <hr />
          <li>
             <img src="https://yt3.ggpht.com/a-/AOh14GixdVjxqi11Md_OCDd3K7SOQEhizq4f3EI_0g=s68-c-k-c0x00ffffff-no-rj-mo" />

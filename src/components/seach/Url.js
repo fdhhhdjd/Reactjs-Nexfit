@@ -58,7 +58,7 @@ function Url() {
      </div>
      <YouTube  className="tientai" videoId={id} opts={opts} onReady={handleClick}/>
      <div className="marquee">
-     <marquee  style={{fontSize:'22px'}} >Chào mừng bạn đến với Nguyễn Tiến Tài,ở đây có những bộ phim bản thân mình đã xem và mình muốn đem đến cho mọi
+     <marquee  style={{fontSize:'22px'}} >Chào mừng bạn đến với Nguyễn Tiến Tài ,ở đây có những bộ phim bản thân mình đã xem và mình muốn đem đến cho mọi
       người một trải nghiệm tải Webside của mình,cảm ơn mọi người đã ghé thăm,chúc các bạn xem phim vui vẻ ,dịch đang tràng lang mong mọi người ở nhà,ăn nhậu thì gần gần đó ra đường nhớ khẩu trang nhé ♥
       </marquee>
      </div>
